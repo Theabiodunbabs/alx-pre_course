@@ -1,1 +1,1 @@
-A new dir
+New files in bash, c and js
